@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Easy Document Scanner Compose</string>
+    <string name="gallery_import_allowed">Gallery Import Allowed</string>
+    <string name="number_of_pages_scanned">Number of pages scanned</string>
+    <string name="full">Full</string>
+    <string name="base">Base</string>
+    <string name="base_with_filter">Base With Filter</string>
+    <string name="scanner_feature_mode">Scanner Mode</string>
+    <string name="scan">Scan Document</string>
+    <string name="error_occurred">Error Occurred</string>
+</resources>
